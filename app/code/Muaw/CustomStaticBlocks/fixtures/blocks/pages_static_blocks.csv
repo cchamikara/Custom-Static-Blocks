@@ -1,0 +1,15 @@
+title,identifier,content
+"Static block 1",static-block-1,"test content
+"
+"Static block 2",static-block-2,"<div class=""col-xs-12 home-page-delivery-box"">
+                                   <div class=""col-xs-12""><img class=""pull-left"" src=""{{media url=""wysiwyg/home/ico-free.png""}}"" alt="""" />
+                                   <div>Free UK delivery, International &pound;5 per order</div>
+                                   </div>
+                                   <div class=""col-xs-12""><img class=""pull-left"" src=""{{media url=""wysiwyg/home/ico-next-day.png""}}"" alt="""" />
+                                   <div>Most UK orders delivered next day</div>
+                                   </div>
+                                   <div class=""col-xs-12""><img class=""pull-left"" src=""{{media url=""wysiwyg/home/ico-visit.png""}}"" alt="""" />
+                                   <div>Visit our studio and have shirts made</div>
+                                   </div>
+                                   </div>
+"
